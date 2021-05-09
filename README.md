@@ -1,7 +1,7 @@
 <h2> Hi, I'm Lorenzo Lopez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Web Developer<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-animator motion graphics<a href="#">Portfolio in construction</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Web Developer<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="30"></br>
+Web Developer<a href="https://www.linkedin.com/in/lorenzo-lopez-67449719a/">Linkedin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ```javascript & Wordpress
@@ -17,21 +17,21 @@ const anmol = {
             design: ["photoshop", "xd", "illustrator"]
         },
         mobileApp: {
-            native: "Android Studio",
+            native: "Android Studio"
         },
         backEnd: {
             js: ["node", "express"],
         },
         devOps: "Docker🐳",
         databases: ["mongo", "MySql",],
-        misc: "Firebase"
+        misc: "Firebase",
         Animation: {
             motionGraph: ["adobeAfterEffects", "adobePremiere"],
             3dRender&Animation&Web: ["blender", "Cinema4d", "Lottie.js", "bodyMovin"],
         },
     },
     architecture: "Single page applications",
-    currentLearning: ["ReactFlow", "Jest", "TestingLibrary"]
+    currentLearning: ["ReactFlow", "Jest", "TestingLibrary"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -48,16 +48,6 @@ Sublime Text 3           6 hrs 38 mins       █████░░░░░░�
 
 💻 Operating System: 
 Windows                  33 hrs 5 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in React** 
-
-```text
-React                    10 repos            ██████████████░░░░░░░░░░░   43.26% 
-JavaScript               8 repos             ████████░░░░░░░░░░░░░░░░░   30.6% 
-Angular                   4 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
-PHP                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
 
 ```
 
