@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm Lorenzo Lopez</h1>
-<h3>A passionate frontend developer from Argentina</h3>
+<h3>A passionate FrontEnd Web developer from Argentina</h3>
 <img align='right' src="https://media.giphy.com/media/axnFGXT6MzvgY/giphy.gif" width="230">
-<p><em>Web Developer <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="30"><br>
-FRONT END <a href="https://www.linkedin.com/in/lorenzo-lopez-67449719a/"> *Linkedin</a><img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="30"> 
-</em></p>
+<a href="https://www.linkedin.com/in/lorenzo-lopez-67449719a/">Linkedin</a><img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="30"> 
 
 ```javascript & Wordpress
 const lorenzo = {
