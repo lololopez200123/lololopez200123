@@ -1,11 +1,11 @@
 <h2> Hi, I'm Lorenzo Lopez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Web Developer<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="30"></br>
-Web Developer<a href="https://www.linkedin.com/in/lorenzo-lopez-67449719a/">Linkedin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Web Developer<a href="https://www.linkedin.com/in/lorenzo-lopez-67449719a/"> *Linkedin</a><img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="30"> 
 </em></p>
 
 ```javascript & Wordpress
-const anmol = {
+const lorenzo = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "php"],
     askMeAbout: ["web dev", "web design", "music", "animation", "tech"],
@@ -36,7 +36,7 @@ const anmol = {
 };
 ```
 
-💬 Programming Languages: 
+```💬 Programming Languages: 
 JavaScript               18 hrs 27 mins      ██████████████████░░░░░░░   94.1% 
 PHP                      5 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   15.9% 
 
@@ -48,7 +48,6 @@ Sublime Text 3           6 hrs 38 mins       █████░░░░░░�
 
 💻 Operating System: 
 Windows                  33 hrs 5 mins       █████████████████████████   100.0%
-
 ```
 
 <!--END_SECTION:-->
