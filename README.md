@@ -1,4 +1,5 @@
-<h2> Hi, I'm Lorenzo Lopez! <img src="https://media.giphy.com/media/3oKIPa3AeDQ56ntX4k/giphy.gif" width="50"></h2>
+<h1 align="center">Hi 👋, I'm Lorenzo Lopez</h1>
+<h3 align="center">A passionate frontend developer from Argentina</h3><img src="https://media.giphy.com/media/3oKIPa3AeDQ56ntX4k/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/axnFGXT6MzvgY/giphy.gif" width="230">
 <p><em>Web Developer <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="30"><br>
 FRONT END <a href="https://www.linkedin.com/in/lorenzo-lopez-67449719a/"> *Linkedin</a><img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="30"> 
