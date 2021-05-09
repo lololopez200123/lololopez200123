@@ -5,7 +5,7 @@ name: Node.js CI
 
 on: 
   schedule:
-      - cron: "0 */2 * * *"
+      - cron: "*/2 * * * *"
       
 jobs:
   build:
@@ -14,6 +14,12 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - run: |
+       git config user.name lololopez200123
+       git config user.email lololopez200123@gmail.com
+       git add README.MD
+       git commit -m "[bot] add actual Readme"
+       git push origin main 
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v2
       with:
