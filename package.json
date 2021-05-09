@@ -1,0 +1,25 @@
+{
+  "name": "lololopez200123",
+  "version": "1.0.0",
+  "description": "Readme Auto Actualizable con Git Actions",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lololopez200123/lololopez200123.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lololopez200123/lololopez200123/issues"
+  },
+  "homepage": "https://github.com/lololopez200123/lololopez200123#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0",
+    "unirest": "^0.6.0"
+  }
+}

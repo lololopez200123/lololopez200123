@@ -114,7 +114,7 @@ funFact: "There are two ways to write error-free programs; only the third one wo
                 alt="android" width="40" height="40" /> </a> <a href="https://www.arduino.cc/" target="_blank"> <img
                 src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /></p>
 
-Last Project Working : <a href="https://instagram40.p.rapidapi.com/account-info?username=lol_olopez"></a>
+Last Project Working : %{{latest-work}}%
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lololopez200123&"
         alt="lololopez200123" /></p>
