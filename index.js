@@ -1,9 +1,6 @@
 /* eslint-disable no-console */
 const fs = require('fs').promises;
-const Parser = require('rss-parser');
 const unirest = require('unirest');
-
-const parser = new Parser();
 
 const req = unirest('GET', 'https://instagram40.p.rapidapi.com/account-info');
 
@@ -17,7 +14,7 @@ req.headers({
   useQueryString: true,
 });
 
-let respuesta = req.end((res) => {
+const respuesta = req.end((res) => {
   console.log(res.body);
 });
 
