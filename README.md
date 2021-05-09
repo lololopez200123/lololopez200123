@@ -27,7 +27,8 @@ const lorenzo = {
         misc: "Firebase",
         Animation: {
             motionGraph: ["adobeAfterEffects", "adobePremiere"],
-            3dRender-Animation-WebAnimation: ["blender", "Cinema4d", "Lottie.js", "bodyMovin"],
+            3dRender-Animation: ["blender", "Cinema4d"],
+            WebAnimation: ["Lottie.js", "bodyMovin"]
         },
     },
     architecture: "SinglePageApplications",
