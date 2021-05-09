@@ -12,7 +12,7 @@ const lorenzo = {
     technologies: {
         frontEnd: {
             js: ["react", "angular"],
-            css: ["materialize", "tailwindCss", "bootstrap", "sass", "postCss],
+            css: ["materialize", "tailwindCss", "bootstrap", "sass", "postCss"],
             wordpress: ["themes", "plugins", "support"],
             design: ["photoshop", "xd", "illustrator"]
         },
@@ -23,14 +23,14 @@ const lorenzo = {
             js: ["node", "express"],
         },
         devOps: "Docker🐳",
-        databases: ["mongo", "MySql",],
+        databases: ["mongo", "MySql"],
         misc: "Firebase",
         Animation: {
             motionGraph: ["adobeAfterEffects", "adobePremiere"],
-            3dRender&Animation&Web: ["blender", "Cinema4d", "Lottie.js", "bodyMovin"],
+            3dRender-Animation-WebAnimation: ["blender", "Cinema4d", "Lottie.js", "bodyMovin"],
         },
     },
-    architecture: "Single page applications",
+    architecture: "SinglePageApplications",
     currentLearning: ["ReactFlow", "Jest", "TestingLibrary"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
