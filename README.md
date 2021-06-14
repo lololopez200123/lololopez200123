@@ -6,12 +6,12 @@
 
 ```javascript & Wordpress
 const lorenzo = {
-pronouns: "He" | "Him",
+pronouns: ["He", "Him"],
 code: ["Javascript", "Typescript", "php"],
 askMeAbout: ["web dev", "web design", "music", "animation", "tech"],
 technologies: {
 frontEnd: {
-js: ["react", "angular"],
+js: ["react", "Vue"],
 css: ["materialize", "tailwindCss", "bootstrap", "sass", "postCss"],
 wordpress: ["themes", "plugins", "support"],
 design: ["photoshop", "xd", "illustrator"]
@@ -27,7 +27,7 @@ databases: ["mongo", "MySql"],
 misc: "Firebase",
 Animation: {
 motionGraph: ["adobeAfterEffects", "adobePremiere"],
-3dRender-Animation: ["blender", "Cinema4d"],
+RenderAnimation: ["blender", "Cinema4d"],
 WebAnimation: ["Lottie.js", "bodyMovin"]
 },
 },
