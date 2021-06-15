@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Lorenzo Lopez</h1>
 <h3>A passionate FrontEnd Web developer from Argentina</h3>
-<img src="https://giphy.com/embed/M2lrsTcWPtI4uW4eKy" width="206" height="480"></img>
+<img float="right" src="./sidebar.gif" width="206" height="480"></img>
 <a href="https://www.linkedin.com/in/lorenzo-lopez-67449719a/">Linkedin</a>
 
 ```javascript & Wordpress
