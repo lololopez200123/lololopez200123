@@ -10,29 +10,30 @@ code: ["Javascript", "Typescript", "php"],
 askMeAbout: ["web dev", "web design", "music", "animation", "tech"],
 technologies: {
 frontEnd: {
-js: ["React", "Vue"],
-css: ["materialize", "tailwindCss", "bootstrap", "sass", "postCss"],
+js: ["React", "Vue", "Angular"],
+css: ["MaterialUI", "CSS-IN-JS", "Styled Components", "tailwind", "bootstrap", "sass", "postCss"],
 wordpress: ["themes", "plugins", "support"],
 design: ["photoshop", "xd", "illustrator"],
-terminal: ["linux","powershell"]
+terminal: ["linux", "WSL2","powershell"]
 },
 mobileApp: {
-native: "Android Studio"
+native: "React Native"
 },
 backEnd: {
-js: ["node", "express"],
+js: ["node", "express", "NEST-JS"],
 },
 devOps: "Docker🐳",
-databases: ["mongo", "MySql"],
-misc: "Firebase",
+databases: ["mongo", "MySql", "PostgreSQL"],
+misc: "Firebase", "AI",
 Animation: {
 motionGraph: ["adobeAfterEffects", "adobePremiere"],
 RenderAnimation: ["blender", "Cinema4d"],
-WebAnimation: ["Lottie.js", "bodyMovin"]
+WebAnimation: ["Lottie.js", "bodyMovin", "ThreeJS"],
+Testing: ["Jest", "TestingLibrary"],
 },
 },
-architecture: "SinglePageApplications",
-currentLearning: ["ReactFlow", "Jest", "TestingLibrary"],
+architecture: "Hexagonal", "MVC", "Clean",
+currentLearning: ["AI", "WEB3", "Smart Contracts"],
 funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
