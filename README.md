@@ -41,7 +41,7 @@ funFact: "There are two ways to write error-free programs; only the third one wo
 
 - 🌱 I’m currently learning **Angular,Backend,Testing**
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at [here](https://lorenzolopez.net)
 
 - 💬 Ask me about **Javascript, Css & React**
 
@@ -49,13 +49,10 @@ funFact: "There are two ways to write error-free programs; only the third one wo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/lorenzo-lopez-67449719a/" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/lorenzo-lopez-67449719a/" height="30" width="40" /></a>
-    <a href="https://instagram.com/https://www.instagram.com/lol_olopez/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg"
-            alt="https://www.instagram.com/lol_olopez/" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/lorenzo-lopez-67449719a/" target="blank">
+    </a>
+    <a href="https://instagram.com/https://www.instagram.com/lol_olopez/" target="blank">
+     </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -115,7 +112,7 @@ funFact: "There are two ways to write error-free programs; only the third one wo
                 alt="android" width="40" height="40" /> </a> <a href="https://www.arduino.cc/" target="_blank"> <img
                 src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /></p>
 
-Last Project Working : <a href="https://instagram40.p.rapidapi.com/account-info?username=lol_olopez"></a>
+Last Project Working : <a href="https://github.com/lololopez200123/alephium-profit"></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lololopez200123&"
         alt="lololopez200123" /></p>
