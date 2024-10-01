@@ -50,8 +50,10 @@ funFact: "There are two ways to write error-free programs; only the third one wo
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/lorenzo-lopez-67449719a/" target="blank">
+        Linkedin
     </a>
-    <a href="https://instagram.com/https://www.instagram.com/lol_olopez/" target="blank">
+    <a href="https://lorenzolopez.net" target="blank">
+        My Web
      </a>
 </p>
 
