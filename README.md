@@ -2,11 +2,11 @@
 
 # Lorenzo Lopez
 
-**Senior Fullstack Developer · Founder @ [Modular](https://lorenzolopez.net) · General Roca, Patagonia 🇦🇷**
+**Senior Fullstack Developer · Founder @ [Modular](https://lorenzolopez.net) · Patagonia, Argentina 🇦🇷**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-lopez-67449719a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://lorenzolopez.net)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lorenzolopez200123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@lorenzolopez.com.ar)
 
 </div>
 
@@ -19,24 +19,23 @@ I build fullstack products and creative web experiences from Patagonia. Founder 
 ```typescript
 const lorenzo = {
   role: "Senior Fullstack Developer & Founder @ Modular",
-  location: "General Roca, Patagonia, Argentina 🏔️",
+  location: "Patagonia, Argentina 🏔️ (Zapala native, based in General Roca)",
 
   stack: {
     frontend:  ["Next.js", "React", "TypeScript", "Tailwind CSS", "GSAP", "Three.js", "WebGL/GLSL"],
     backend:   ["NestJS", "Node.js", "PostgreSQL", "Drizzle ORM", "REST", "WebSockets"],
     infra:     ["Docker", "Hetzner", "Render", "Neon", "Vercel", "OpenVPN", "SSH"],
-    ai:        ["Anthropic Claude API", "Gemini", "Playwright agents", "MCP"],
+    ai:        ["Claude Code", "Anthropic Claude API", "Gemini", "Playwright agents", "MCP"],
     tools:     ["WSL2", "Linux", "Git", "Postman", "Figma"],
   },
 
   currentlyBuilding: [
-    "Parfum   — multi-tenant SaaS for fragrance sellers (MercadoPago + AI search)",
+    "Parfum       — multi-tenant SaaS for fragrance sellers (MercadoPago + AI search)",
     "Juntadita.fun — browser-based party games platform",
-    "Aurora   — stock valuation tool using fundamental analysis multiples",
     "BuscaPorMi.ai — AI-powered job search agent for LatAm devs",
   ],
 
-  architecture: ["Hexagonal", "Clean Architecture", "MVC", "Domain-Driven Design"],
+  architecture: ["Hexagonal", "Clean Architecture", "Domain-Driven Design", "Event-Driven", "CQRS"],
   
   funFact: "There are two ways to write error-free programs; only the third one works",
 };
@@ -55,9 +54,8 @@ A statusline integration that brings **Claude Code context directly into your te
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Parfum](https://github.com/lololopez200123)** | Multi-tenant e-commerce for fragrance sellers | Next.js, NestJS, PostgreSQL, MercadoPago |
-| **[Juntadita.fun](https://github.com/lololopez200123)** | Browser party games (El Impostor, Truco, El Ascensor) | Next.js, Drizzle, Neon |
-| **[Aurora](https://github.com/lololopez200123)** | Stock valuation with PER, EV/EBITDA, P/S, P/BV | Next.js, FMP API |
+| **Parfum** | Multi-tenant e-commerce for fragrance sellers | Next.js, NestJS, PostgreSQL, MercadoPago |
+| **[Juntadita.fun](https://juntadita.fun)** | Browser party games (El Impostor, Truco, El Ascensor) | Next.js, Drizzle, Neon |
 | **[Alephium Profit](https://github.com/lololopez200123/alephium-profit)** | DeFi dApp — Top 5 winner from 70+ teams 🏆 | Web3, Alephium blockchain |
 | **[claude-code-statusline](https://github.com/lololopez200123/claude-code-statusline)** | Claude Code context in your terminal statusline | Shell, Claude API |
 
